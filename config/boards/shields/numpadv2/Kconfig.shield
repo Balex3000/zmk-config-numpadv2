@@ -1,0 +1,2 @@
+config SHIELD_NUMPADV2
+    def_bool $(sheilds_list_contains, numpadv2)
